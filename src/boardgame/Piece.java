@@ -1,5 +1,7 @@
 package boardgame;
 
+import chess.ChessPiece;
+
 public class Piece {
 
 	protected Position position;
@@ -20,6 +22,7 @@ public class Piece {
 	}
 
 
+	
 
 
 	
